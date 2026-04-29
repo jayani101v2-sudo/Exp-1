@@ -32,11 +32,18 @@ REG NO: 212224100025
 
 ## ACTIVITY DIAGRAM
 
+<img width="527" height="599" alt="image" src="https://github.com/user-attachments/assets/bb64b592-0972-4b10-8009-88a0d320768d" />
+
 
 ## SEQUENTIAL DIAGRAM
 
+<img width="734" height="713" alt="image" src="https://github.com/user-attachments/assets/26ee8006-ad5d-4d32-86f3-4b5e09b91d6f" />
+
+
 
 ## COMMUNICATION DIAGRAM
+
+
 
 
 ## CLASS DIAGRAM
