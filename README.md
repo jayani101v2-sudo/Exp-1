@@ -26,8 +26,12 @@ REG NO: 212224100025
 
 ## USE CASE DIAGRAM
 
+<img width="774" height="788" alt="image" src="https://github.com/user-attachments/assets/a4a2d210-2129-4471-835e-d1017816744e" />
+
 
 ## PACKAGE DIAGRAM
+
+<img width="822" height="634" alt="image" src="https://github.com/user-attachments/assets/71d9f837-336f-4bd2-b027-ec13afb5a6df" />
 
 
 ## ACTIVITY DIAGRAM
@@ -43,11 +47,13 @@ REG NO: 212224100025
 
 ## COMMUNICATION DIAGRAM
 
+<img width="821" height="690" alt="image" src="https://github.com/user-attachments/assets/cf7cd4ff-67ba-4d1a-95fe-8bee715d23e8" />
 
 
 
 ## CLASS DIAGRAM
 
+<img width="822" height="636" alt="image" src="https://github.com/user-attachments/assets/62580dd3-8000-4163-9d17-f686ba738d44" />
 
 
 # RESULT:
